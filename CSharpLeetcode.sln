@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{DFB59D53-AB58-4156-BDBA-F545F2ABA62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{21B60B24-5649-452A-8E52-F7623BA2FE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLinkedLists", "MergeTwoLinkedLists\MergeTwoLinkedLists.csproj", "{14C63CD2-2EEE-48CA-AD4C-1DFDC766B017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuySellStock", "BuySellStock\BuySellStock.csproj", "{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB59D53-AB58-4156-BDBA-F545F2ABA62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB59D53-AB58-4156-BDBA-F545F2ABA62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB59D53-AB58-4156-BDBA-F545F2ABA62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB59D53-AB58-4156-BDBA-F545F2ABA62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B60B24-5649-452A-8E52-F7623BA2FE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B60B24-5649-452A-8E52-F7623BA2FE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B60B24-5649-452A-8E52-F7623BA2FE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B60B24-5649-452A-8E52-F7623BA2FE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C63CD2-2EEE-48CA-AD4C-1DFDC766B017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C63CD2-2EEE-48CA-AD4C-1DFDC766B017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C63CD2-2EEE-48CA-AD4C-1DFDC766B017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C63CD2-2EEE-48CA-AD4C-1DFDC766B017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
