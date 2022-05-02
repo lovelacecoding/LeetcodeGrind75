@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLinkedLists", "Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuySellStock", "BuySellStock\BuySellStock.csproj", "{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{2B8AD540-5657-493E-B229-C6511248833A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62C9E268-C2AD-4EA2-BC1F-1F34E181B2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8AD540-5657-493E-B229-C6511248833A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8AD540-5657-493E-B229-C6511248833A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8AD540-5657-493E-B229-C6511248833A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8AD540-5657-493E-B229-C6511248833A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
